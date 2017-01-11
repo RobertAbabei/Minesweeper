@@ -1,0 +1,7 @@
+﻿  MInesweeper project.cpp
+e:\visualstudioworkspace\minesweeper project\minesweeper project\matrix.h(3): warning C4309: 'initializing': truncation of constant value
+e:\visualstudioworkspace\minesweeper project\minesweeper project\minesweeper project.cpp(143): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\visualstudioworkspace\minesweeper project\minesweeper project\minesweeper project.cpp(1064): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\visualstudioworkspace\minesweeper project\minesweeper project\minesweeper project.cpp(1586): warning C4102: 'wrong': unreferenced label
+  MInesweeper project.vcxproj -> E:\VisualStudioWorkspace\MInesweeper project\Debug\MInesweeper project.exe
+  MInesweeper project.vcxproj -> E:\VisualStudioWorkspace\MInesweeper project\Debug\MInesweeper project.pdb (Full PDB)
